@@ -13,13 +13,8 @@
 }
 
 form {
-  /*  */
   margin-bottom: 5rem;
   width: 100%;
-  /* display: flex; */
-  /* flex-direction: column;
-  align-items: center;
-  justify-content: center; */
   gap: 1rem;
 }
 
@@ -28,12 +23,6 @@ input.search {
   border: none;
   height: 32px;
 }
-
-/* select {
-  font-size: 1em;
-  border: none;
-  height: 32px;
-} */
 
 ul li {
   list-style-type: none;

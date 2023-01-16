@@ -7,10 +7,6 @@
   justify-content: center;
   flex-wrap: wrap;
   flex-flow: wrap;
-  /* display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-gap: 50px;
-  padding: 0 100px; */
 }
 
 .details {
